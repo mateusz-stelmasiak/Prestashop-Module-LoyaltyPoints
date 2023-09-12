@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>myprestaloyalty</name>
+    <displayName><![CDATA[Punkty lojalnościowe]]></displayName>
+    <version><![CDATA[3.0.7]]></version>
+    <description><![CDATA[Moduł wprowadzający funkcję punkt&oacute;w lojalnościowych]]></description>
+    <author><![CDATA[mypresta.eu]]></author>
+    <tab><![CDATA[pricing_promotion]]></tab>
+	<confirmUninstall><![CDATA[Czy jesteś pewna/pewny, że chcesz usunąć wraz z historią punktów zebranych przez klientów?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,82 @@
+/*
+* PrestaShop module created by VEKIA, a guy from official PrestaShop community ;-)
+*
+* @author    VEKIA https://www.prestashop.com/forums/user/132608-vekia/
+* @copyright 2010-2020 VEKIA
+* @license   This program is not free software and you can't resell and redistribute it
+*
+* CONTACT WITH DEVELOPER
+* support@mypresta.eu
+*/
+
+
+#loyalty_cart span.material-icons, #loyalty_product span.material-icons {
+    font-size: 60px;
+}
+
+#loyalty_cart, #loyalty_product {
+    background: white;
+    padding: 8px;
+    border: 1px solid #c0c0c0;
+    border-radius: 4px;
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#loylalty_navbar_parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1rem;
+}
+
+#loyalty_navbar_parent span{
+    color: #7a7a7a;
+}
+
+#loyality_cart_summary_header{
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#loyality_cart_summary_header i{
+    font-size: 2rem;
+}
+
+#loyality_cart_summary_countup{
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.loyality_cart_summary_countup_row{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+#loyality_cart_summary_countup_divdier{
+    background-color: black;
+    height: 2px;
+    width:85%;
+    opacity: 0.7;
+    margin-top: 0.5rem;
+    margin-bottom: 0.9rem;
+}
+
+#loyality_cart_summary_countup_button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f49d77;
+    padding: 0.7rem 0.5rem;
+    color: white;
+    width: 80%;
+    margin: 2rem auto;
+    text-transform: uppercase;
+}
+
+
